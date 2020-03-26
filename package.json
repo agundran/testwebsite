@@ -1,0 +1,16 @@
+{
+  "name": "testwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://agundran.github.io/testwebsite",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
